@@ -12,6 +12,8 @@ Rathath bin rakan 444200450
 
 # Motivation :
 
+The number of cancer patients increases every year, so we chose to pursue this study with the hope that we could spread more awareness about the bad habits that patients practice and their roles in patients' condition.
+
 # Goal:
 
 # Dataset Source:
