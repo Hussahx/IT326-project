@@ -1,4 +1,4 @@
-Students Names & IDs:
+# Students Names & IDs:
 
 Salma Alboqami 444200887 
 
@@ -9,3 +9,66 @@ Hussah Alotaibi 444201039
 Malak Basloom 444204601
 
 Rathath bin rakan 444200450
+
+# Motivation :
+
+# Goal:
+
+# Dataset Source:
+We used the 'Kaggle' site  as a source: https://www.kaggle.com/datasets/rishidamarla/cancer-patients-data 
+
+# Dataset Information:
+
+This set shows a research on 1000(observations) cancer patients about different aspects of their lifestyle, we have 25 Attributes to discuss 
+
+- Patient Id : Nominal
+
+- Age : Numeric
+
+- Gender : Binary
+
+- Air Pollution : Ordinal
+
+- Alcohol use : Ordinal
+
+- Dust Allergy : Ordinal
+
+- OccuPational Hazards : Ordinal
+
+- Genetic Risk : Ordinal
+
+- chronic Lung Disease : Ordinal
+
+- Balanced Diet : Ordinal
+
+- Obesity : Ordinal
+
+- Smoking : Ordinal
+
+- Passive Smoker : Ordinal
+
+- Chest Pain : Ordinal
+
+- Coughing of Blood : Ordinal
+
+- Fatigue : Ordinal
+
+- Weight Loss : Ordinal
+
+- Shortness of Breath : Ordinal
+
+- Wheezing : Ordinal
+
+- Swallowing Difficulty : Ordinal
+
+- Clubbing of Finger Nails : Ordinal
+
+- Frequent Cold : Ordinal
+
+- Dry Cough : Ordinal
+
+- Snoring : Ordinal
+
+- Level : Ordinal
+
+The class label is the attribute 'Level' which describes the patient's cancer level that could be 'Low', 'Medium' or 'High' . 
