@@ -1,4 +1,6 @@
-Students Names & IDs:
+# Students Names & IDs:
+
+
 Salma Alboqami 444200887
 
 Leen Alzahrani 444200939
@@ -9,14 +11,20 @@ Malak Basloom 444204601
 
 Rathath bin rakan 444200450
 
-Motivation :
+# Motivation :
+
+
 The number of cancer patients increases every year, so we chose to pursue this study with the hope that we could spread more awareness about the bad habits that patients practice and their roles in patients' condition.
 
-Goal:
+# Goal:
+
+
 Dataset Source:
 We used the 'Kaggle' site as a source: https://www.kaggle.com/datasets/rishidamarla/cancer-patients-data
 
-Dataset Information:
+# Dataset Information:
+
+
 This set shows a research on 1000(observations) cancer patients about different aspects of their lifestyle, we have 25 Attributes to discuss
 
 Patient Id : Nominal
@@ -68,5 +76,7 @@ Dry Cough : Ordinal
 Snoring : Ordinal
 
 Level : Ordinal
+
+
 
 The class label is the attribute 'Level' which describes the patient's cancer level that could be 'Low', 'Medium' or 'High' .
