@@ -19,8 +19,13 @@ The number of cancer patients increases every year, so we chose to pursue this s
 # Goal:
 
 
+our goal is to identify patterns in the habits and symptomes in cancer patients, aiming to raise awarness regarding harmful practices.
+
+
+
 Dataset Source:
 We used the 'Kaggle' site as a source: https://www.kaggle.com/datasets/rishidamarla/cancer-patients-data
+
 
 # Dataset Information:
 
